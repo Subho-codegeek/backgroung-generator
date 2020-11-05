@@ -4,4 +4,4 @@ A little project through which we can preview the gradient background while crea
 
 ## Examples:
 
-![1st](file:///home/subhomay/Desktop/example1.png)
+![1st](home/subhomay/Desktop/example1.png)
